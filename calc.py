@@ -1,4 +1,5 @@
 print("CALCULATION")
+name = input("type your name: ")
 a = input("a: ")
 b = input("b: ")
 
